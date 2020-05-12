@@ -1,0 +1,39 @@
+@media(max-width:415px){
+  body{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    border:none;
+  }
+  .header-left{
+    width:250px;
+  }
+
+  .header-left h1{
+    font-size: 30px;
+  }
+
+  .top h1{
+    width:300px;
+    font-size: 30px;
+    margin:0;
+  }
+
+  .container{
+    max-width:415px;
+    width:100%;
+    margin:0 auto;
+  }
+
+  header{
+    max-width:415px;
+    width:100%;
+    margin:0 auto;
+
+  }
+  footer h1{
+    font-size: 20px;
+  }
+
+
+}
